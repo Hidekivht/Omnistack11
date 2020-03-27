@@ -1,0 +1,9 @@
+Hospedagem back-end
+ -Heroku (plano gratuito. Tutorial em https://www.youtube.com/watch?v=-j7vLmBMsEU)
+ -DigitalOcean (precificação previsível. Tutorial em https://www.youtube.com/watch?v=ICIz5dE3Xfg)
+ -AWS, Google Clouds, Microsoft Azure (mais famosas)
+
+Hospedagem front-end
+ -Netlify (específico para front-end.
+
+publicação Mobile (Tutorial https://www.youtube.com/watch?v=wYMvzbfBdYI)
